@@ -6,6 +6,7 @@
 ---
 
 ### 🧠 Exploratory Data Analysis (EDA)
+https://lnkd.in/dEfzAdJP
 
 This project analyzes apartment pricing trends in Alexandria, Egypt, across various neighborhoods. The objective is to uncover insights regarding price variations, property sizes, investment comparisons, and economic influences using **Power BI** for interactive visualization.
 
